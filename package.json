@@ -1,0 +1,16 @@
+{
+  "name": "l4-husky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "author": "Prince Sunsara <princesunasara977@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "jest": "^29.1.1"
+  }
+}
